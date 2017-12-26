@@ -20,6 +20,8 @@ gem 'uglifier', '~> 3.2.0'
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2.2'
 # Turbolinks makes navigating your web application faster. Read more: https://github.com/turbolinks/turbolinks
+# CoffeeScript source
+gem 'coffee-script-source', '1.8.0'
 gem 'turbolinks', '~> 5.0.1'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.7.0'
