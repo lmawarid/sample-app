@@ -17,6 +17,9 @@
 !/log/.keep
 !/tmp/.keep
 
+# Ignore the Spring directory
+/spring/*.pid
+
 /node_modules
 /yarn-error.log
 
